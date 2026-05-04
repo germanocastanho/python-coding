@@ -1,6 +1,6 @@
-# 🐍 Leaning Python
+# 📚 Leaning Python
 
-This repo contains my personal collection of **Python Notes**. Here you will find notebooks with things I find useful while working with Python. There are also books and formal lessons on the [assets](assets/) directory. Feel free to browse and use if you find something helpful! Contributions are welcome too! 📚
+This repo contains my personal collection of **Python Notes**. Here you will find notebooks with things I find useful while working with Python. There are also books and formal lessons on the [assets](assets/) directory. Feel free to browse and use if you find something helpful! Contributions are welcome too! 📖
 
 <div align="center">
   <img style="max-width: 100%; height: auto;" src="assets/images/python.jpg" alt="Random Snake" />
