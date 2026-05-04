@@ -1,4 +1,4 @@
-# 🐍 Python Coding
+# 🐍 Leaning Python
 
 This repo contains my personal collection of **Python Notes**. Here you will find notebooks with things I find useful while working with Python. There are also books and formal lessons on the [assets](assets/) directory. Feel free to browse and use if you find something helpful! Contributions are welcome too! 📚
 
