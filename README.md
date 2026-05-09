@@ -22,10 +22,10 @@ This repo contains my personal collection of **Python Notes**. Here you will fin
 
 ```bash
 # Clone the repository
-git clone https://github.com/germanocastanho/python-notes.git
+git clone https://github.com/germanocastanho/learning-python.git
 
 # Navigate to the directory
-cd python-notes
+cd learning-python
 
 # Set up a virtual environment
 uv venv .venv
@@ -36,7 +36,7 @@ uv pip install -r requirements.txt
 
 # Access the desired notebook
 cd notebooks
-jupyter-lab <nb.ipynb>
+jupyter-lab <notebook.ipynb>
 ```
 
 # 📜 Free Software
